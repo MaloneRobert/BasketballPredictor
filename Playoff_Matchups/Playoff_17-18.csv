@@ -11,3 +11,6 @@ Houston_Rockets,Utah_Jazz,0
 New_Orleans_Pelicans,Golden_State_Warriors,1
 Toronto_Raptors,Cleveland_Cavaliers,1
 Philadelphia_76ers,Boston_Celtics,1
+Houston_Rockets,Golden_State_Warriors,0
+Cleveland_Cavaliers,Boston_Celtics,0
+Golden_State_Warriors,Cleveland_Cavaliers,0
